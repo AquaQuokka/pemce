@@ -1,10 +1,10 @@
 {
   "homepage": "https://aquaquokka.github.io/pemce",
   "1.16.5": {
-    "0.19.0.1.1": "",
+    "0.20.0": "",
   },
   "promos": {
-    "1.16.5-latest": "0.19.0.1.1",
-    "1.16.5-recommended": "0.19.0.1.1",
+    "1.16.5-latest": "0.20.0",
+    "1.16.5-recommended": "0.20.0",
   }
 }
